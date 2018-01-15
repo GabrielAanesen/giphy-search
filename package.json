@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GabrielAanesen/giphy-search/issues"
   },
-  "homepage": "https://github.com/GabrielAanesen/giphy-search#readme"
+  "homepage": "https://github.com/GabrielAanesen/giphy-search#readme",
+  "dependencies": {
+    "query-string": "^5.0.1"
+  }
 }
